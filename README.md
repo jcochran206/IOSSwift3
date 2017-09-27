@@ -1,6 +1,6 @@
 # IOSSwift3
 Here are a collection of projects I worked thru utilizing IOS 10 and swift 3.  
-The projects progress from varing degrees of difficulty and solidify specific concepts in Swift and object oriented programming.
+The projects progress from varying degrees of difficulty and solidify specific concepts in Swift and object oriented programming.
 My list of projects are: 
 - DICEE : random dice app 
   objectives of project were:
