@@ -6,12 +6,13 @@ My list of projects are:
   objectives of project were:
   1) understanding of layout, buttons, and labels within Xcode
   2) familiarity of IDE and functions 
+  3) familiarization with randomization, functions and methods
+  4) familiarization with shake gesture
 - Xylophone : app that allow user to play xlyophone with store audio files 
   objectives were: 
   1) familiarization with collections and arrays
   2) link design with code 
-  3) familiarization with randomization, functions and methods
-  4) familiarization with shake gesture 
+  3) assign keys with specific audio files
 - Destini : app based on choose your own adventure where users choices determines ending 
   objectives of project were: 
   1) control flow with conditional statements 
